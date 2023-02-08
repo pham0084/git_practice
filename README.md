@@ -1,2 +1,1 @@
-# meta_version_control
-Git practice
+#version_control_practice
